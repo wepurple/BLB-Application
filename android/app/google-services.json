@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "585646692675",
+    "project_id": "blb-e5",
+    "storage_bucket": "blb-e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585646692675:android:5a96499e4813de440c77f6",
+        "android_client_info": {
+          "package_name": "com.entreprise.blbapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585646692675-40pgfqt2f2ig34f5pb5jfp8b3gce8bah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdV7hehU-02vqnR4MpRAvzY_T04zHraNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585646692675-40pgfqt2f2ig34f5pb5jfp8b3gce8bah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585646692675-pdst8lauih1jrqedo061lh0n8e5tcbip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.entreprise.blbapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
