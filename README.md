@@ -1,8 +1,12 @@
-# blb_entreprise
+# BLB Entreprise
 
-A new Flutter project.
+Language de programmation utilisé : DART
 
-## Getting Started
+## Objectif du projet:
+
+Ce projet vise à réaliser une application mobile facilitant les tâches de travail au sein de l'entreprise BLB.
+
+## 
 
 This project is a starting point for a Flutter application.
 
